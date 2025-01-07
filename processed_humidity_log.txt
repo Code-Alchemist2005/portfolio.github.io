@@ -1,0 +1,39 @@
+[Humidity] Invalid data (filtered)
+[Humidity] 69.34 %
+[Humidity] Invalid data (filtered)
+[Humidity] 70.00 %
+[Humidity] 83.38 %
+[Humidity] Invalid data (filtered)
+[Humidity] 89.56 %
+[Humidity] Invalid data (filtered)
+[Humidity] 79.24 %
+[Humidity] Invalid data (filtered)
+[Humidity] Invalid data (filtered)
+[Humidity] Invalid data (filtered)
+[Humidity] Invalid data (filtered)
+[Humidity] 36.54 %
+[Humidity] 59.22 %
+[Humidity] Invalid data (filtered)
+[Humidity] 79.90 %
+[Humidity] 98.84 %
+[Humidity] Invalid data (filtered)
+[Humidity] Invalid data (filtered)
+[Humidity] Invalid data (filtered)
+[Humidity] Invalid data (filtered)
+[Humidity] 98.04 %
+[Humidity] Invalid data (filtered)
+[Humidity] Invalid data (filtered)
+[Humidity] Invalid data (filtered)
+[Humidity] 48.42 %
+[Humidity] 74.32 %
+[Humidity] 94.36 %
+[Humidity] 97.90 %
+[Humidity] Invalid data (filtered)
+[Humidity] Invalid data (filtered)
+[Humidity] Invalid data (filtered)
+[Humidity] 90.76 %
+[Humidity] 57.38 %
+[Humidity] 98.24 %
+[Humidity] 53.34 %
+[Humidity] 65.98 %
+[Humidity] 40.70 %
