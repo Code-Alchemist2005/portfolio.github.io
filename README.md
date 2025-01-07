@@ -15,24 +15,23 @@ Here's a glimpse into my journey:
 Need for Military Logistics and Supply Chain
 Military logistics and supply chain management are vital components of defense operations, playing a key role in ensuring mission success. The complexity and scale of modern military operations demand a robust and efficient logistics system. Below are the core reasons for its importance:
 
-Operational Readiness:
-
+1. Operational Readiness:
 Ensures troops, equipment, and supplies are available when and where needed.
 Reduces downtime and enhances mission effectiveness.
 
-Strategic Advantage:
+2. Strategic Advantage:
 Provides a competitive edge by enabling rapid deployment and resupply.
 Supports sustained operations in hostile or remote environments.
 
-Resource Optimization:
+3. Resource Optimization:
 Ensures efficient use of limited resources, including manpower, fuel, and equipment.
 Minimizes waste and ensures sustainability.
 
-Disaster and Crisis Response:
+4. Disaster and Crisis Response:
 Supports humanitarian missions and disaster relief operations.
 Enables quick mobilization of resources during emergencies.
 
-Adapting to Challenges:
+5. Adapting to Challenges:
 Handles disruptions caused by geopolitical conflicts, natural disasters, or supply chain vulnerabilities.
 Prepares for contingencies with flexible and scalable solutions.
 
@@ -66,25 +65,24 @@ Impact of Military Logistics and Supply Chain
 
 ## 🌐 *Find Me Online*
 
-- [GitHub](https://github.com/Nownev/portfolio.github.io/edit/main/README.md)
-- [LinkedIn](https://www.linkedin.com/in/suhani-alatkar-161a57344/)
+- [GitHub](https://github.com/Code-Alchemist2005/portfolio.github.io/edit/main/README.md)
+- [LinkedIn]()
 
 ## Portfolio Highlights
 
-### 🎯 *Topic:* Homeless And Public Services
+### 🎯 *Topic:* MILITARY LOGISTICS AND SUPPLY CHAIN
 
 - DAA (Design and Analysis of Algorithms)  
-- Focus: Algorithmic Problem Solving for Pollution cities  
-
+- Focus: Algorithmic Problem Solving for challenges of ensuring the timely, efficient, and continuous delivery of resources and  equipment.
 ### 📋 *Details:*
 
 - *Course Name*: Algorithms Lab 
 - *Course Code*: 24ECAP202  
-- *Name*: Suhani Alatkar
-- *SRN*: 02fe23bci008
-- *Course Instructor*: Priyanka Gavade  
+- *Name*: Shreya Gandroli
+- *SRN*: 02fe23bcs050
+- *Course Instructor*: Vaishali Parab
 - *University*:KLE TECHNOLOGICAL UNIVERSITY
-  - *Topic:* Homeless And Public Services
+  - *Topic:* Military logistics and supply chain 
 ---
 
 ## 🎨 What Drives Me  
