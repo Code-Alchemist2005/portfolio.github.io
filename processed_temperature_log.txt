@@ -1,0 +1,59 @@
+[Temperature] 15.82 Celsius
+[Temperature] 24.34 Celsius
+[Temperature] 21.68 Celsius
+[Temperature] 35.00 Celsius
+[Temperature] Invalid data (filtered)
+[Temperature] 29.48 Celsius
+[Temperature] 34.56 Celsius
+[Temperature] 32.16 Celsius
+[Temperature] Invalid data (filtered)
+[Temperature] 24.28 Celsius
+[Temperature] Invalid data (filtered)
+[Temperature] Invalid data (filtered)
+[Temperature] 30.62 Celsius
+[Temperature] 21.54 Celsius
+[Temperature] 34.22 Celsius
+[Temperature] 24.82 Celsius
+[Temperature] Invalid data (filtered)
+[Temperature] Invalid data (filtered)
+[Temperature] 21.54 Celsius
+[Temperature] 33.72 Celsius
+[Temperature] 32.82 Celsius
+[Temperature] Invalid data (filtered)
+[Temperature] 33.04 Celsius
+[Temperature] 18.06 Celsius
+[Temperature] 20.84 Celsius
+[Temperature] 22.64 Celsius
+[Temperature] 33.42 Celsius
+[Temperature] 29.32 Celsius
+[Temperature] 19.36 Celsius
+[Temperature] 22.90 Celsius
+[Temperature] 33.94 Celsius
+[Temperature] 29.52 Celsius
+[Temperature] Invalid data (filtered)
+[Temperature] Invalid data (filtered)
+[Temperature] 22.38 Celsius
+[Temperature] 23.24 Celsius
+[Temperature] 18.34 Celsius
+[Temperature] 30.98 Celsius
+[Temperature] 25.70 Celsius
+[Temperature] 32.88 Celsius
+[Temperature] 19.06 Celsius
+[Temperature] Invalid data (filtered)
+[Temperature] Invalid data (filtered)
+[Temperature] 21.66 Celsius
+[Temperature] Invalid data (filtered)
+[Temperature] 18.28 Celsius
+[Temperature] 17.82 Celsius
+[Temperature] 19.22 Celsius
+[Temperature] Invalid data (filtered)
+[Temperature] 32.36 Celsius
+[Temperature] 15.94 Celsius
+[Temperature] 27.88 Celsius
+[Temperature] Invalid data (filtered)
+[Temperature] Invalid data (filtered)
+[Temperature] 25.74 Celsius
+[Temperature] 32.18 Celsius
+[Temperature] Invalid data (filtered)
+[Temperature] 29.82 Celsius
+[Temperature] 25.58 Celsius
