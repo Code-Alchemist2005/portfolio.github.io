@@ -66,7 +66,7 @@ Impact of Military Logistics and Supply Chain
 ## 🌐 *Find Me Online*
 
 - [GitHub](https://github.com/Code-Alchemist2005/portfolio.github.io/edit/main/README.md)
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/in/shreya-gandroli-022553263)
 
 ## Portfolio Highlights
 
