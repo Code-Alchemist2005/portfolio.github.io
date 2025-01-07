@@ -5879,7 +5879,7 @@ std::vector<Base> bases = {
 
     // Example locations and distance matrix for the route optimization
 
-    std::vector<std::string> locations = {1};
+    std::vector<std::string> locations = {};
 
     std::vector<std::vector<int>> distanceMatrix =
 
@@ -6397,7 +6397,6 @@ while (choice != 5);
         clearInputBuffer(); // Clear input buffer to prevent incorrect input handling
              return 0;
     }
-
 
 
 
